@@ -1,0 +1,112 @@
+{
+  "phone": [
+    {
+      "img": "https://assets.asaxiy.uz/product/main_image/desktop//632ae3cd3b6d4.png.webp",
+      "name": "iPhone 14 Pro Max",
+      "price": "20 677 000 so'm",
+      "memory": "256GB",
+      "id": 1
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+      "name": "iPhone 13 Pro max",
+      "price": "14 753 000 so'm",
+      "memory": "128GB",
+      "id": 2
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/3ef815416f775098fe977004015c61932021040218004472086F3DSjvBMmY.jpg.webp",
+      "name": "iPhone 12",
+      "price": "8 936 000 so'm",
+      "memory": "128GB",
+      "id": 3
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/d645920e395fedad7bbbed0eca3fe2e02022090413273644935PTc82gCgbg.png.webp",
+      "name": "Samsung Galaxy A23",
+      "price": "2 420 000 so'm",
+      "memory": "4/64GB",
+      "id": 4
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32022061812392272611BKjpwToljM.jpg.webp",
+      "name": "Samsung Galaxy A33",
+      "price": "3 328 000 so'm",
+      "memory": "6/128GB",
+      "id": 5
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/eccbc87e4b5ce2fe28308fd9f2a7baf320220425165622710732ul6JdJJMW.png.webp",
+      "name": "Redmi Note 11 Pro",
+      "price": "3 126 000 so'm",
+      "memory": "8/128GB",
+      "id": 6
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/6cdd60ea0045eb7a6ec44c54d29ed40220220930164624485246vDbCCznOS.png.webp",
+      "name": "Xiaomi Redmi Note 11",
+      "price": "2 359 000 so'm",
+      "memory": "4/128GB",
+      "id": 7
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/025f0c301bb15b5058f59e301ca803462020070814354318575vfNA9H8gIK.jpg.webp",
+      "name": "Xiaomi Redmi Note 8 Pro",
+      "price": "2 645 000 so'm",
+      "memory": "6/128GB",
+      "id": 8
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/c74d97b01eae257e44aa9d5bade97baf2022091817334486024j7PzagcDOp.png.webp",
+      "name": "iPhone 14",
+      "price": "11 296 000 so'm",
+      "memory": "128GB",
+      "id": 9
+    },
+    {
+      "img": "https://assets.asaxiy.uz/product/items/desktop/df48681e0d9fdcd2da528af06196073520210208135859107058ujlP8dbEU.jpg.webp",
+      "name": "iPhone 12 Pro max",
+      "price": "13 011 000 so'm",
+      "memory": "256GB",
+      "id": 10
+    }
+  ],
+  "user": [
+    {
+      "email": "vasliddinali@gmail.com",
+      "name": "Vasliddin",
+      "password": "Alijonov2005",
+      "id": 1
+    },
+    {
+      "email": "vasliddinali@gmail.com",
+      "name": "Vasliddin",
+      "password": "Alijonov",
+      "id": 2
+    },
+    {
+      "email": "vasliddinali@gmail.com",
+      "name": "Vasliddin",
+      "password": "Alijonov",
+      "id": 3
+    },
+    {
+      "email": "admin@admin.admin",
+      "name": "admin",
+      "password": "admin",
+      "id": 4
+    },
+    {
+      "email": "vasliddinali@gmail.com",
+      "name": "Vasliddin",
+      "password": "Alijonov2005",
+      "id": 5
+    },
+    {
+      "email": "vasliddinali@gmail.com",
+      "name": "Vasliddin",
+      "password": "Alijonov",
+      "id": 6
+    }
+  ]
+}
